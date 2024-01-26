@@ -2,6 +2,9 @@
 ## Project Overview
 This project aims to analyze a road accident dataset, focusing on key performance indicators (KPIs) such as severity distribution presented in a donut chart, monthly casualties trends illustrated with a line chart, and casualties based on road type, surface conditions, areas, light conditions, and vehicle modes using visual representations like bar charts and maps. The insights derived from this analysis will inform targeted interventions and policy enhancements to improve overall road safety. 
 
+![Dashboard](https://github.com/arun-iiests/Road_Accident_Excel_Dashboard/assets/124171557/8bb3df8e-8b10-41a1-a8ea-c3f7513281fb)
+
+
 This Being my 1st Excel project has taught me a lot and it was an exciting journey to work on real dataset & enjoyed too during the process. The varoius process with my key learnings are listed below:
 
 ### About Dataset

@@ -4,6 +4,23 @@ This project aims to analyze a road accident dataset, focusing on key performanc
 
 This Being my 1st Excel project has taught me a lot and it was an exciting journey to work on real dataset & enjoyed too during the process. The varoius process with my key learnings are listed below:
 
+### About Dataset
+
+The dataset contains information on road accidents, including unique identifiers ('Accident_Index'), dates, days of the week, junction details, accident severity, and geographic coordinates. Factors such as lighting, hazards, road conditions, casualties, and vehicles involved are covered. Police force data, road attributes, and weather conditions are also included. Exploring this dataset can reveal insights into the circumstances and patterns of road accidents.
+
+No of Rows: 307974 
+
+No of Columns: 21 
+
+The Columns are: 
+
+['Accident_Index', 'Accident Date', 'Day_of_Week',
+       'Junction_Control', 'Junction_Detail', 'Accident_Severity', 'Latitude',
+       'Light_Conditions', 'Local_Authority_(District)', 'Carriageway_Hazards',
+       'Longitude', 'Number_of_Casualties', 'Number_of_Vehicles',
+       'Police_Force', 'Road_Surface_Conditions', 'Road_Type', 'Speed_limit',
+       'Time', 'Urban_or_Rural_Area', 'Weather_Conditions', 'Vehicle_Type']
+       
 ## Data Cleaning 
 Firstly I took an overview of all columns of the dataset by adding filter and looked whether there were any blank,duplicate,typing error values or not. In Accident_Severity column I found that there a 'Fetal' kind of severity, So I corrected it to 'Fatal' by method of find and replace under home section  
 
@@ -52,20 +69,10 @@ Firstly I took an overview of all columns of the dataset by adding filter and lo
 10. Inserting Hyperlink
 11. So overall I learned an Excel Dashboard creation technique
 
-### Data Source (Kaggle) 
-No of Rows: 307974 
 
-No of Columns: 21 
+Thank You!
 
-The Columns are: 
 
-['Accident_Index', 'Accident Date', 'Day_of_Week',
-       'Junction_Control', 'Junction_Detail', 'Accident_Severity', 'Latitude',
-       'Light_Conditions', 'Local_Authority_(District)', 'Carriageway_Hazards',
-       'Longitude', 'Number_of_Casualties', 'Number_of_Vehicles',
-       'Police_Force', 'Road_Surface_Conditions', 'Road_Type', 'Speed_limit',
-       'Time', 'Urban_or_Rural_Area', 'Weather_Conditions', 'Vehicle_Type']
-    
- -[Dataset Link](https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset/data )     
+       
 
 
